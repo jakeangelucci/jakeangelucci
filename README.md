@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Jake Angelucci, I am a currently a senior at the University of Iowa where I am studying Business Analytics and Information Systems along with Finance.
 <!--
 **jakeangelucci/jakeangelucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
